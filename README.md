@@ -8,6 +8,7 @@ This is **Safiya Fatima**, and I’m glad to share my **handwritten notes on Git
 This repository contains my **handwritten, beginner-friendly Git & GitHub notes**, which I have prepared by learning everything step-by-step and simplifying each concept in the easiest way possible.
 
 If you’re new to Git or GitHub, this PDF will help you understand:
+
 • What Git & GitHub are
  
 • Why developers use them
